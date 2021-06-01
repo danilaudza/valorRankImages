@@ -1,2 +1,2 @@
 # valorRankImages
-Just a storage for my private discord bot
+Just an image asset for my private discord bot
